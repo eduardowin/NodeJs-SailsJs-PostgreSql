@@ -36,8 +36,8 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git://github.com/jota/pikbik001.git"
   },
-  "author": "eduado",
+  "author": "jota",
   "license": ""
 }
